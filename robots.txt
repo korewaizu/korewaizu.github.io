@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /img/
-Disallow: /vid/
+Disallow: /vid/nho.mp4
