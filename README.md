@@ -1,3 +1,3 @@
 # http://korewaizu.github.io
 
-Site para testes de deface.
+Site para teste.
